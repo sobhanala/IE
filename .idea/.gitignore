@@ -141,3 +141,8 @@ hs_err_pid*
 replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij
+/IE.iml
+/misc.xml
+/modules.xml
+/vcs.xml
+/workspace.xml
